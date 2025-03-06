@@ -5,7 +5,7 @@
 This repository contains a Jupyter Notebook implementing **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** and **K-Means Clustering** for clustering datasets. DBSCAN is an unsupervised machine learning algorithm used to identify clusters of varying shapes and detect outliers, while K-Means is a centroid-based clustering algorithm that partitions data into a predefined number of clusters.
 
 ## File Description
-- **DBscan.ipynb**: Jupyter Notebook that demonstrates the implementation of DBSCAN and K-Means clustering using `scikit-learn`. It includes:
+- **Code.ipynb**: Jupyter Notebook that demonstrates the implementation of DBSCAN and K-Means clustering using `scikit-learn`. It includes:
   - Data preprocessing
   - Feature selection
   - Normalization
