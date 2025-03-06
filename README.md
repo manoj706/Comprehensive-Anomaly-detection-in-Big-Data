@@ -24,7 +24,7 @@ pip install numpy pandas matplotlib scikit-learn
 ## How to Use
 1. Clone this repository:
    ```bash
-   (https://github.com/manoj706/Comprehensive-Anomaly-detection-in-Big-Data)
+   https://github.com/manoj706/Comprehensive-Anomaly-detection-in-Big-Data
    ```
 2. Open the Jupyter Notebook:
    ```bash
