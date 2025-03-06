@@ -38,11 +38,12 @@ Ensure that the dataset used in the notebook (CSV file) is available in the same
 ## Visualization
 The notebook includes scatter plots to visualize the clustered data, where each cluster is represented with a different color. Additionally, it provides a comparative analysis of DBSCAN and K-Means clustering results.
 
-## Author
-Huzaifaa shaik
-E Krishna Chaitanya 
-A Manoj Kumar Reddy 
-D S N Sathvik     
+### Authors:
+- Huzaifaa Shaik  
+- E Krishna Chaitanya  
+- A Manoj Kumar Reddy  
+- D S N Sathvik  
+
 
 ## License
 This project is licensed under the MIT License.
