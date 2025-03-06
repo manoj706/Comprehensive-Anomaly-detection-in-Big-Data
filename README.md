@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d5dffcd0-c88d-4621-a88e-566f727808e0)# Comprehensive-Anomaly-detection-in-Big-Data
+# Comprehensive-Anomaly-detection-in-Big-Data
 # DBSCAN and K-Means Clustering
 
 ## Overview
@@ -24,7 +24,7 @@ pip install numpy pandas matplotlib scikit-learn
 ## How to Use
 1. Clone this repository:
    ```bash
-(https://github.com/manoj706/Comprehensive-Anomaly-detection-in-Big-Data)
+   (https://github.com/manoj706/Comprehensive-Anomaly-detection-in-Big-Data)
    ```
 2. Open the Jupyter Notebook:
    ```bash
